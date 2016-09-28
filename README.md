@@ -12,6 +12,7 @@
 - [iOS深浅拷贝](https://github.com/zcwlwen/Blog-Github/blob/master/iOS%E6%B7%B1%E6%B5%85%E6%8B%B7%E8%B4%9D.md)
 - [pch文件的使用](https://github.com/zcwlwen/Blog-Github/blob/master/pch%E6%96%87%E4%BB%B6%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 - [开发遇到的问题汇总](https://github.com/zcwlwen/Blog-Github/blob/master/%E5%BC%80%E5%8F%91%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB.md)
+- [iOS上线加急申请](https://github.com/zcwlwen/Blog-Github/blob/master/iOS%E4%B8%8A%E7%BA%BF%E5%8A%A0%E6%80%A5%E7%94%B3%E8%AF%B7.md)
 
 ###php
 - [php-MediaInfo](https://github.com/zcwlwen/Blog-Github/blob/master/php-MediaInfo.md)
